@@ -23,6 +23,10 @@ Endpoints:
 
 ### Sources
 - [SBT: Multi-project builds](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)
+- [Baeldung: Introduction to ZIO](https://www.baeldung.com/scala/zio-intro)
+- [YouTube: Real-world functional programming in Scala using ZIO - a tour by Yonas Ghidei
+  ](https://www.youtube.com/watch?v=S6CkX0u3Cv0)
+  - [GitHub repo used in the talk](https://github.com/ghidei/funcprog2022)
 - [ZIO guides and documentation](https://zio.dev/guides/)
   - https://github.com/zio/zio-quickstart-hello-world
   - https://github.com/zio/zio-quickstart-restful-webservice
