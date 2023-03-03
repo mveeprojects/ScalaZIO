@@ -1,6 +1,6 @@
 # ScalaZIO
 
-Simple Scala app implementing ZIO to learn about this technology.
+Simple Scala apps in ZIO to learn about this technology.
 
 ### hello_zio_basic
 
